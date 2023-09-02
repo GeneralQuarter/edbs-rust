@@ -1,0 +1,1 @@
+return roll(6);
